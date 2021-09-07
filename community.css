@@ -1,0 +1,46 @@
+.body{
+    background-color: black;
+}
+
+
+.btn{
+    margin-left: 500px;
+}
+
+.collapse{
+    margin-left: 10px;
+}
+.navbar-brand{
+   font-size: 2rem;
+}
+.banner{
+    width: 100%;
+    height: 750px;
+   
+}
+.rocket-spec{
+    width: 100%;
+    height: 780px;
+}
+
+.dropdown-item{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+.com-banner{
+    width: 100%;
+    height: 750px;
+}
+.hr3{
+    color: white;
+   
+}
+.support{
+    color: white;
+    font-family:monospace;
+}
+.for{
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+

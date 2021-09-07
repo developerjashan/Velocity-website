@@ -1,0 +1,87 @@
+.body{
+    background-color: black;
+}
+
+.btn{
+    margin-left: 500px;
+}
+
+.collapse{
+    margin-left: 10px;
+}
+.navbar-brand{
+   font-size: 2rem;
+}
+.banner{
+    width: 100%;
+    height: 750px;
+   
+}
+.rocket-spec{
+    width: 100%;
+    height: 780px;
+}
+
+.dropdown-item{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+.next{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 7%;
+}
+
+.div{
+    color: white;
+    width: 300px;
+    height: 100px;
+}
+
+.name{
+    color: white;
+    word-spacing: 20rem;
+    margin-left: 27%;
+    margin-top: 5%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.name1{
+    color: white;
+    word-spacing: 25.5rem;
+    margin-left: 27%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.name2{
+    color: white;
+    word-spacing: 10rem;
+    margin-left: 27%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.name3{
+    color: white;
+    word-spacing: 20.5rem;
+    margin-left: 27%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.name4{
+    color: white;
+    word-spacing: 22.2rem;
+    margin-left: 27%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.name5{
+    color: white;
+    word-spacing: 22.2rem;
+    margin-left: 27%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.hr{
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+}

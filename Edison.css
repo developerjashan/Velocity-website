@@ -1,0 +1,58 @@
+
+
+.btn{
+    margin-left: 500px;
+}
+
+.collapse{
+    margin-left: 10px;
+}
+.navbar-brand{
+   font-size: 2rem;
+}
+.banner{
+    width: 100%;
+    height: 750px;
+   
+}
+.card-img{
+    width: 100%;
+    height: 780px;
+}
+.card-img-overlay{
+    margin-top: 10%;
+    margin-left: 7%;
+}
+.card-text2{
+    word-spacing: 11rem;
+    font-style: italic;
+    font-family:'Courier New', Courier, monospace ;
+}
+
+.card-text1{
+    word-spacing: 13rem;
+    font-family:'Courier New', Courier, monospace ;
+}
+
+.card-text3{
+    word-spacing: 13rem;
+    font-family:'Courier New', Courier, monospace ;
+}
+
+.card-text4{
+    word-spacing: 9.8rem;
+    font-family:'Courier New', Courier, monospace ;
+}
+
+.card-text5{
+    word-spacing: 9rem;
+    font-family:'Courier New', Courier, monospace ;
+}
+.card-title{
+
+    font-family:'Courier New', Courier, monospace ;
+}
+
+.dropdown-item{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
